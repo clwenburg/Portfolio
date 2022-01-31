@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @clwenburg
-- 👀 I’m interested in the intersectionality of data and law.
+- 👋 Hi, I’m Carter Wenburg!
+- 👀 I’m interested in the intersectionality of data and law. I created this account to serve as a personal portfolio.
 - 📫 Feel free to shoot me an email at clwenburg@gmail.com!
